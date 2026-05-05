@@ -374,3 +374,18 @@ All services working correctly in containerized environment.
 
 ## Conclusion:
 End-to-end system verified successfully.
+---
+
+## Team Sign-Off
+
+All team members have reviewed the system security, testing, and mitigations.
+
+| Name | Role | Sign-Off |
+|------|------|---------|
+| Rahul S | Java Developer 1 | ✅ Approved |
+| Akash Koni | Java Developer 2 | ✅ Approved |
+| Hemanth Kumar | AI Developer 1 | ✅ Approved |
+| B L Abhiram | AI Developer 2 | ✅ Approved |
+| Shobha N | Security Reviewer | ✅ Approved |
+
+---

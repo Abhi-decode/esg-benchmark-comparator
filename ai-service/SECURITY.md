@@ -222,3 +222,23 @@ System is secure for current development stage.
 
 ## Conclusion:
 AI responses meet required quality threshold.
+---
+
+# Day 11 — End-to-End (E2E) Docker Test
+
+## Setup:
+- Application containerized using Docker Compose
+
+## Verification:
+- Container built and started successfully
+- AI service accessible at http://127.0.0.1:5000
+- Endpoints tested:
+  - /health
+  - /ai/generate
+  - /ai/describe
+
+## Result:
+All services working correctly in containerized environment.
+
+## Conclusion:
+End-to-end system verified successfully.
